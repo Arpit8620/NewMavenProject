@@ -71,6 +71,10 @@
                 </executions>
             </plugin>
         </plugins>
+<plugin>
+   <artifactId>maven-surefire-plugin</artifactId>
+   <version>3.0.0-M1</version>
+</plugin>        
     </build>
 
 </project>
